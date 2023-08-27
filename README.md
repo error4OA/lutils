@@ -1,2 +1,2 @@
 # lutils
-luvits utilities, i guess
+luvit utilities, i guess
